@@ -1,0 +1,4 @@
+appid:
+token:
+dashScopeAPIKey:
+mysql: root:root@tcp(127.0.0.1:3306)/robot?charset=utf8&parseTime=True&loc=Local
