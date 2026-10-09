@@ -1,6 +1,6 @@
 # qq机器人
 
-## 快速运行
+## 快速运行流程
 1. 修改config/config.yaml中的配置
 ![img.png](static/img_md/img.png)
 2. 运行程序
